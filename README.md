@@ -1,1 +1,2 @@
-# Infinite-Runner-Game-2
+# Trex-game-
+fun game for time pass :)
